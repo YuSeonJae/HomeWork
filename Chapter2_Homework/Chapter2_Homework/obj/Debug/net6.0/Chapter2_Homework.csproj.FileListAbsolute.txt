@@ -1,0 +1,14 @@
+D:\c_sharp\Chapter2_Homework\Chapter2_Homework\bin\Debug\net6.0\Chapter2_Homework.exe
+D:\c_sharp\Chapter2_Homework\Chapter2_Homework\bin\Debug\net6.0\Chapter2_Homework.deps.json
+D:\c_sharp\Chapter2_Homework\Chapter2_Homework\bin\Debug\net6.0\Chapter2_Homework.runtimeconfig.json
+D:\c_sharp\Chapter2_Homework\Chapter2_Homework\bin\Debug\net6.0\Chapter2_Homework.dll
+D:\c_sharp\Chapter2_Homework\Chapter2_Homework\bin\Debug\net6.0\Chapter2_Homework.pdb
+D:\c_sharp\Chapter2_Homework\Chapter2_Homework\obj\Debug\net6.0\Chapter2_Homework.GeneratedMSBuildEditorConfig.editorconfig
+D:\c_sharp\Chapter2_Homework\Chapter2_Homework\obj\Debug\net6.0\Chapter2_Homework.AssemblyInfoInputs.cache
+D:\c_sharp\Chapter2_Homework\Chapter2_Homework\obj\Debug\net6.0\Chapter2_Homework.AssemblyInfo.cs
+D:\c_sharp\Chapter2_Homework\Chapter2_Homework\obj\Debug\net6.0\Chapter2_Homework.csproj.CoreCompileInputs.cache
+D:\c_sharp\Chapter2_Homework\Chapter2_Homework\obj\Debug\net6.0\Chapter2_Homework.dll
+D:\c_sharp\Chapter2_Homework\Chapter2_Homework\obj\Debug\net6.0\refint\Chapter2_Homework.dll
+D:\c_sharp\Chapter2_Homework\Chapter2_Homework\obj\Debug\net6.0\Chapter2_Homework.pdb
+D:\c_sharp\Chapter2_Homework\Chapter2_Homework\obj\Debug\net6.0\Chapter2_Homework.genruntimeconfig.cache
+D:\c_sharp\Chapter2_Homework\Chapter2_Homework\obj\Debug\net6.0\ref\Chapter2_Homework.dll
